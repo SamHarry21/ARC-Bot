@@ -1,1 +1,1 @@
-# ARC-Bot
+# Gladius Gaming | ARC Regiment Discord Bot
