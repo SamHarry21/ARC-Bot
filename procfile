@@ -1,1 +1,1 @@
-worker:  bundle exec bot.js
+worker:  bot.js
