@@ -1,1 +1,1 @@
-worker:  exec node bot.js
+worker:  bundle node bot.js
